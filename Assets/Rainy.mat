@@ -111,7 +111,7 @@ Material:
     - _Cutoff: 0.5
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
-    - _DropSize: 0.346
+    - _DropSize: 0.5401808
     - _DstBlend: 0
     - _DstBlendAlpha: 0
     - _EnvironmentReflections: 1
@@ -124,10 +124,10 @@ Material:
     - _Parallax: 0.005
     - _QueueOffset: 0
     - _RadialStrength: 1
-    - _RainAmount: 1
+    - _RainAmount: 0.3232961
     - _RainEffectiveness: 0.281
     - _RainSpeed: 0.010315876
-    - _RainTime: 292.2986
+    - _RainTime: 37.626503
     - _ReceiveShadows: 1
     - _Smoothness: 0.5
     - _SmoothnessTextureChannel: 0
