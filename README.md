@@ -22,7 +22,7 @@ Just like a real bike.
 
 ### Engine Audio Synthesis
 
-
+https://github.com/user-attachments/assets/77f798f0-867a-4811-81d0-b8779b020aa6
 
 The centerpiece of the project. Engine sound is generated in real-time 
 using granular synthesis driven directly by the simulated engine state. 
