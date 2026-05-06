@@ -27,7 +27,7 @@ Just like a real bike.
 The centerpiece of the project. Engine sound is generated in real-time 
 using granular synthesis driven directly by the simulated engine state. 
 
-No pre-recorded engine loops the audio is synthesized procedurally 
+No pre-recorded engine loops: the audio is synthesized procedurally 
 based on RPM output from the drivetrain simulation.
 
 *(I designed it using reference clips and tuned the parameters until I got something that sounded close, the clips were originally in the project but too big to store on Github)*
@@ -36,7 +36,7 @@ based on RPM output from the drivetrain simulation.
 
 ![flyby gif](repo-assets/flyby.gif)
 
-- Gear system with realistic gear ratios (taken directly from real numers on a Kawasaki ZX6R Sportbike)
+- Gear system with realistic gear ratios (taken directly from real numbers on a Kawasaki ZX6R Sportbike)
 - Torque curves driving wheel force
 - RPM calculated from gear, speed, and throttle input
 - RPM feeds directly into the audio synthesizer
